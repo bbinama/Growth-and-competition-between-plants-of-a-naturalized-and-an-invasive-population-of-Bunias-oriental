@@ -46,11 +46,7 @@ library(DescTools)# DunneTest
 library(pbkrtest)
 library (patchwork)
 
-#setwd("C:/R Data/Competition")
 
-#setwd("F:/PhD/3RDPAPER/Plant Science Journal/Figures changes")
-#setwd("T:/bio13/Blaise Binama/Data_CDRIVE/R Data/Competition")
-#setwd("F:/PhD/Data_CDRIVE/R Data/Competition")
 setwd ("/Volumes/BBlaise/PhD/Data_CDRIVE/R Data/Competition") # for mac
 #dat_1<-read.table(file="Single.txt", header=TRUE,sep="\t",dec = ".")
 #Check if groups (single, two, three)was confounded with fertilization differences
